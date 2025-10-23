@@ -1,4 +1,4 @@
-Israel Olamide, MSc Data Science student at Aston University, UK, currently working on ML projects with focus on understanding the social impacts of ML, building robust systems that can cope with a changing world, and leveraging Machine Learning to address impactful questions in clinical medicine, quantitative finance, and education. Proven expertise and experience in Python, SQL, Databricks, Large-scale Data Statistical Analysis with ML and statistical models such as Deep Learning, LLMs, Gen AI.
+Israel Olamide, MSc Data Science student at Aston University, UK, currently working on ML projects with focus on understanding the social impacts of ML, building robust systems that can cope with a changing world, and leveraging AI/Machine Learning to address impactful questions in clinical medicine, quantitative finance, and education. Proven expertise and experience in Python, SQL, Databricks, Large-scale Data Statistical Analysis with ML and statistical models such as Deep Learning, LLMs, Gen AI.
 
 <!--
 **olamideokunnugaDS/olamideokunnugaDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
